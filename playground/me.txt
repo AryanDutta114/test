@@ -1,5 +1,0 @@
-{{#user}
-Name: Aryan Dutta
-Skills: HTML, CSS, JS, Next.js
-Email: aryan250dutta@gmail.com
-{{/user}}
